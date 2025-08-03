@@ -1,1 +1,2 @@
-https://arxiv.org/abs/0910.1205v1
+- https://arxiv.org/abs/0910.1205v1
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4522028#:~:text=Research%20documents%20price%20comovements%20or,dates%20compared%20to%20other%20dates.
